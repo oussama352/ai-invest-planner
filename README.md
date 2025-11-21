@@ -2,7 +2,7 @@
 
 Projet : Application web qui génère des stratégies d’investissement personnalisées en utilisant une Intelligence Artificielle Générative.
 
-🎯 Objectif :
+ Objectif :
 Créer une application simple où l’utilisateur entre :
 - son objectif financier
 - son niveau de risque
